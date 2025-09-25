@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy - Auto Scroll & Page-Turn Capture</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      line-height: 1.6;
+      color: #333;
+    }
+    h1, h2 {
+      color: #222;
+    }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p><strong>Effective Date:</strong> September 25, 2025</p>
+
+  <h2>Introduction</h2>
+  <p>Auto Scroll & Page-Turn Capture (“the Extension”) is a Chrome browser extension that allows users to capture full-length webpages and page-turning eBooks by automatically scrolling or flipping through content and exporting it as a single image or PDF.</p>
+  <p>We respect your privacy and are committed to protecting it. This policy explains what data we collect, how it is used, and what rights you have.</p>
+
+  <h2>Information We Collect</h2>
+  <ul>
+    <li>We do not collect personally identifiable information.</li>
+    <li>We do not collect browsing history, financial data, or authentication details.</li>
+    <li>We only process the website content you explicitly choose to capture. This happens locally on your device.</li>
+  </ul>
+
+  <h2>How We Use Data</h2>
+  <p>Captured content is used solely to generate the requested screenshot or PDF. No data is stored, transmitted, or sold to third parties.</p>
+
+  <h2>Permissions Justification</h2>
+  <ul>
+    <li><strong>activeTab & scripting</strong>: to scroll or flip pages and capture content.</li>
+    <li><strong>storage</strong>: to save your extension preferences.</li>
+    <li><strong>downloads</strong>: to save files to your device.</li>
+    <li><strong>host permissions</strong>: to work on the sites you choose to capture.</li>
+  </ul>
+
+  <h2>Data Sharing</h2>
+  <p>We do not sell, rent, or share data with third parties. No analytics, tracking, or remote code is included.</p>
+
+  <h2>Your Control</h2>
+  <p>You control when and where to use the Extension. You can remove it anytime from Chrome.</p>
+
+  <h2>Changes</h2>
+  <p>We may update this Privacy Policy. Updates will appear on this page.</p>
+
+  <h2>Contact</h2>
+  <p>Email: your-email@example.com</p>
+</body>
+</html>
